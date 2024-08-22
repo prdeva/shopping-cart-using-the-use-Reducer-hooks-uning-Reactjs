@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/shopping-cart-using-the-use-Reducer-hooks-uning-Reactjs/static/css/main.e1671115.css",
+    "main.js": "/shopping-cart-using-the-use-Reducer-hooks-uning-Reactjs/static/js/main.ea8228ab.js",
+    "static/media/grape.png": "/shopping-cart-using-the-use-Reducer-hooks-uning-Reactjs/static/media/grape.4c0837a866f846f32084.png",
+    "static/media/dragon.png": "/shopping-cart-using-the-use-Reducer-hooks-uning-Reactjs/static/media/dragon.760125f34eb2d1f212e0.png",
+    "static/media/apple.png": "/shopping-cart-using-the-use-Reducer-hooks-uning-Reactjs/static/media/apple.b7b208bcb2c22cc541eb.png",
+    "static/media/orrange.png": "/shopping-cart-using-the-use-Reducer-hooks-uning-Reactjs/static/media/orrange.fe850a3a0288b612dd81.png",
+    "index.html": "/shopping-cart-using-the-use-Reducer-hooks-uning-Reactjs/index.html",
+    "main.e1671115.css.map": "/shopping-cart-using-the-use-Reducer-hooks-uning-Reactjs/static/css/main.e1671115.css.map",
+    "main.ea8228ab.js.map": "/shopping-cart-using-the-use-Reducer-hooks-uning-Reactjs/static/js/main.ea8228ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1671115.css",
+    "static/js/main.ea8228ab.js"
+  ]
+}
