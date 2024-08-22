@@ -1,0 +1,36 @@
+.apple{
+    height: 250px;
+    width: 250px;
+}
+.div1{
+    
+}
+.full{
+    display: flex;
+    padding: 10px;
+    text-align: center;
+    margin-left: 100px;
+
+}
+.div1,.div2,.div3,.div4{
+    padding: 10px;
+}
+button{
+    border-radius: 10px;
+
+}
+.bt1{
+    color:white;
+    background-color: red;
+}
+.bt2{
+    color: white;
+    background-color: rgb(32, 179, 32);
+}
+.bt3{
+    background-color: rgb(33, 149, 227);
+    color: white;
+}
+.h3{
+    text-align: center;
+}
